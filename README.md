@@ -14,6 +14,12 @@ After completing this unit you will be able to:
 
 These skills will enable you to write relatively simple, but well structured, Java programs which do simple character graphics (ASCII art).
 
+## Assignments
+
+### Create a GitHub Account
+
+### Configure IntelliJ IDEA to use your GitHub Account
+
 [1]: https://www.jetbrains.com/idea
 [2]: https://github.com
 [3]: https://git-scm.com
